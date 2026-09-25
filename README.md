@@ -9,6 +9,5 @@ This is a sample project to demonstrate the use of HTML, CSS and JavaScript. Sta
 live-server --no-browser
 ```
 
-2. Refresh the URL in simple browser to see the output# livechallenge
-# livechallenge
-# livechallenge
+2. Refresh the URL in simple browser to see the output# bytexl-1
+# bytexl-1
